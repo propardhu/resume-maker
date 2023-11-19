@@ -1,5 +1,5 @@
 // {
       //   "name":"whatsapp",
-      //   "url":"https://wa.me/+19452491088?text=Hi",
+      //   "url":"https://wa.me/+1987654320?text=Hi",
       //   "className":"BsWhatsapp"
       // },
