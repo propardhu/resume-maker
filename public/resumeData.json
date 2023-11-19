@@ -1,0 +1,191 @@
+{
+  "main": {
+    "BGStyle": "cobweb",
+    "BGAnColor" : "#b2beb5",
+    "name":"G.Partha Sai",
+    "description":"Full Stack Developer",
+    "image":"profilepic.jpg",
+    "bio":"Ask me about MLOps, Deeplearning, Unity VR, Also In love with Image Data",
+    "contactmessage":"",
+    "email": "",
+    "phone": "",
+    "resumedownload":"/resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/partha-sai/",
+        "className":"BsLinkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/propardhu",
+        "className":"BsGithub"
+      },
+      {
+        "name":"medium",
+        "url":"https://guttikondaparthasai.medium.com/",
+        "className":"BsMedium"
+      }
+    ],
+    "displayGIF" : [
+      {
+        "src":"images/tk.gif",
+        "alt":"Pardhu image"
+      },
+      {
+        "src":"images/bye.gif",
+        "alt":"Pardhu image"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technology Enthusiast",
+    "education":[
+      {
+        "school":"Sreenidhi Institude of Science and Technology",
+        "degree":"Bachelor of Technology Computer Science",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"University of texas at Arlington",
+        "title":"Graduate Reasearch Assistant at Luber Lab",
+        "years":"",
+        "description":"Engineered integration of ML Algorithm into VR application, enabling users to interact with 3-D MRI and CT medical images, significantly enhances visualization and accessibility of medical data. Proficient in setting up Open XR in Unity for VR apps. \n Improved the large file processing time from DGX a100 to VR app by 60%, reducing querying time of medical images on the VR. \n Demonstrated Inference on Image search ML model in VR app, eliminating computational cost without API calls. \n Developed a VR application for meta quest which can be connected to the super computer and visualize an large image in VR. Performed different Design patterns in C# for better performance of the app. Also minimized the number of object creation during the running which made the app 4X fasted compared to previous versions in the market."
+      }
+    ],
+    "paper":[
+      {
+        "Title":"Vision-and-Language Transformer using Patch Projection",
+        "link":"/papercer.jpg",
+        "publications":"Indian Journal of Natural Sciences",
+        "fullPaper":"/paper.pdf",
+        "description":"The performance of Vision-and-Language Pre-training (VLP) on several coupled vision-and-language downstream tasks has been demonstrated. VLP techniques currently rely largely on picture feature extraction processes, the majority of which require region supervision (e.g., object detection) and the convolutional architecture (e.g., ResNet). Although it has been dismissed in the literature, we believe it is problematic in terms of (1) efficiency/speed, as simply extracting input features requires significantly more computation than the multimodal interaction steps; and (2) expressive power, as it is upper bounded by the visual embedder's expressive power and its predefined visual vocabulary.In this study, we introduce the Vision-and-Language Transformer using Patch Projection (VLTPP), a monolithic VLP model in which the processing of visual inputs is dramatically condensed to merely the processing of visual inputs."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"80%"
+      },
+      {
+        "name":"RESTful API interfaces(JSON)",
+        "level":"55%"
+      },
+      {
+        "name":"Node.JS",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Spring Security JWT Authentication",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/spring-security-jwt-authentication-fc5de68d174b"
+      },
+      {
+        "title":"Spring Data JPA",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/spring-data-jpa-59025a1e8894"
+      },
+      {
+        "title":"Apache Camel -Spring boot",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/apache-camel-spring-boot-5cc1cdd21cea"
+      },
+      {
+        "title":"WebSocket using Spring Boot java",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/websocket-using-spring-boot-java-b95eb142f020"
+      },
+      {
+        "title":"SSL auto-renew inside Nginx",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/ssl-auto-renew-inside-nginx-docker-container-fd0fda1df544"
+      },
+      {
+        "title":"Docker Commands",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/docker-commands-3ad7daa86070"
+      },
+      {
+        "title":"Sorting Algorithms",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/sorting-algorithms-17d619529ba0"
+      },
+      {
+        "title":"TagCloud in HTML",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/tagcloud-in-html-df7ab276aa21"
+      },
+      {
+        "title":"Linear Data structures",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/linear-data-structures-c8976e6d404b"
+      },
+      {
+        "title":"Precache assets using wordbox",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/precache-assets-using-wordbox-vue-js-pwa-and-service-worker-js-injectmanifest-23a56b562c61"
+      },
+      {
+        "title":"Configure Nginx Reverse Proxy for Kibana",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/configure-nginx-reverse-proxy-for-kibana-dockercompose-de35ac8d8d79"
+      },
+      {
+        "title":"Containerize Python Application(Flask) using Docker",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/containerize-python-application-flask-using-docker-165ce580310e"
+      },
+      {
+        "title":"Identity &Access Management Tools (Open Source)",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/identity-access-management-tools-open-source-b29038d993dc"
+      },
+      {
+        "title":"Data Visualization(MongoDB) -Metabase",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/data-visualization-metabase-open-source-ca3eeab276b5"
+      },
+      {
+        "title":"Run python file via Docker-Compose",
+        "image":"VSlogo.png",
+        "url":"https://guttikondaparthasai.medium.com/run-python-file-via-docker-compose-65217a809808"
+      }
+    ],
+    "note": "My medium articles receive an average of 2000 views per month and 1000 reads per month."
+  }
+}
